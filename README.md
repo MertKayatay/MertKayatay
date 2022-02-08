@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MertKayatay
-- 👀 I’m interested in Unity Engine, C#, Java, 
-- 🌱 I’m currently learning C# programig and Unity Engine
+- 👀 I’m interested in Unity Engine, C#, Java, html, css 
+- 🌱 I’m currently learning Java script, html, css
 - 📫 How to reach me mertkayataymert@gmail.com
 
 <!---
